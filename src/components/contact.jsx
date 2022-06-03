@@ -152,6 +152,9 @@ export const Contact = (props) => {
           <p>
             &copy; 2020 Annapoorneshwari Holidays{' '}
           </p>
+          <p>
+          Designed By Poovanna P K{' '}
+        </p>
         </div>
       </div>
     </div>
