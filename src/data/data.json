@@ -1,85 +1,44 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "We are",
+    "paragraph": "Annaporneshwari Holidays has a wide range of experience in Tours and Travel service providers. Annaporneshwari Holidays is a reputed vehicle rental service provider in Bangalore and other metropolitan cities in India."
   },
   "About": {
     "paragraph": "Annaporneshwari Holidays has a wide range of experience in Tours and Travel service providers. Annaporneshwari Holidays is a reputed vehicle rental service provider in Bangalore and other metropolitan cities in India. We are growing exponentially with respect to fleet size and geographical presence. Annaporneshwari Holidays offers all types of travel-related services under one roof that are known for our excellent and efficient travel services provider in Bangalore. We have a great infrastructure to implement quick and reliable services. Our travel service is dedicated to helping in planning to book exciting trips and tours.",
     "Why": [
       "Ensuring security and safety of customers",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "A wide range of vehicles in our fleet to ensure comfort and soothe the customers.",
+      "Communication and behavioral skills, training, and ability to manage – board technology in our vehicles"
     ],
     "Why2": [
       "Dedicated to the satisfaction of the customer rather than profit",
       "Maintaining a hygenic and clean environment in vehicles",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Luxurious cabs/cars, Mini Bus, Bus, and Tempo Travels to provide service for any group of customers." 
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Outside View",
+      "largeImage": "img/portfolio/bus1.jpeg.jpg",
+      "smallImage": "img/portfolio/bus1.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Inside View",
+      "largeImage": "img/portfolio/bus2.jpeg",
+      "smallImage": "img/portfolio/bus2.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Inside View",
+      "largeImage": "img/portfolio/bus3.jpeg",
+      "smallImage": "img/portfolio/bus3.jpeg"
     }
   ],
   "Services": [
-    {
-      "icon": "fa fa-bookmark",
-      "name": "DOMESTIC TOUR PACKAGE",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
+   
     {
       "icon": "fa fa-building",
       "name": "CORPORATE TOUR PACKAGE",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-users",
-      "name": "FAMILY TOUR PACKAGE",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "We at Annaporneshwari Holidays assure you of the refreshment of employees and will take care of all your travel needs. We are also experienced in arranging and managing conferences and meeting for all industries."
     },
     {
       "icon": "fa fa-car",
@@ -89,12 +48,24 @@
     {
       "icon": "fa fa-plane",
       "name": "GROUP TOUR PACKAGE",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Experience the most beautiful locations throughout the world with group tours organized with Annaporneshwari Holidays. Join us to have an enjoyable, memorable, and fun-filled experience on your trip. We are here to make all your needs comfortable on your trip."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "FAMILY TOUR PACKAGE",
+      "text": "Spend your time with your Family with our exclusive packages to make the trip a memorable one. The trip might be for any country or for any season, we are here to give you the best options to make the vacation an enjoyable one with comfort."
+    },
+    
+    
+    {
+      "icon": "fa fa-bookmark",
+      "name": "DOMESTIC TOUR PACKAGE",
+      "text": "Avail of the best domestic tour package from Annaporneshwari Holidays with all modes of transport available. Packages include well-planned and organized work and there will be no confusion on the trip. It does not include various cities to visit but our trip will give you an unforgettable experience."
     },
     {
       "icon": "fa fa-truck",
       "name": "SPECIAL PACKAGE",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "We are the leading outbound tour operators, where we design our itineraries according to the budget of our clients and will make arrangements with local guides or agents across the country. We provide the best luxury hotels to our customers which will give them comfort and safety."
     }
   ],
   
@@ -110,22 +81,22 @@
     {
       "icon": "fa fa-comments-o",
       "title": "Outstanding Services",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "We offer you quality services, Hassle-free journeys with the expertise of our travel experience."
     },
     {
       "icon": "fa fa-location-arrow",
       "title": "GPS in Vehicle",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "Our all travel vehicles are enabled with GPS technology."
     },
     {
       "icon": "fa fa-group",
       "title": "Fleet Well Maintained",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "After every Trip, our vehicles are well maintained & washed with regular service."
     },
     {
       "icon": "fa fa-life-ring",
       "title": "24hrs Support",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "We are happy to help you! Call us at +91 9036886690 , 9036856690 or write to us at insurancekeshava@gmail.com"
     }
   ]
 }

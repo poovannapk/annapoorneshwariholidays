@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <img src={Logo} alt='...' className='logo-img' />
+          <img src={Logo} alt='...' href="#" className='logo-img' style={{cursor:'pointer'}}/>
           {/* <a className='navbar-brand page-scroll' href='#page-top'>
           
           </a>{' '} */}
@@ -64,7 +64,7 @@ export const Navigation = (props) => {
             </li>
             <li>
             <a
-                  href='#'
+                  href='#contact'
                   className='btn btn-custom btn-lg page-scroll'
                 >
                   Book Now
