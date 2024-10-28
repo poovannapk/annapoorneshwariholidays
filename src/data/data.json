@@ -43,7 +43,7 @@
     {
       "icon": "fa fa-car",
       "name": "BUS RENTAL SERVICE",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "We provide luxury and all types of travel buses for your traveling experience at economical prices. We offer a wide range of buses for our customers according to their requirements, tourist bus services are provided to travel around your destination."
     },
     {
       "icon": "fa fa-plane",
@@ -79,24 +79,27 @@
   },
   "Features": [
     {
+      "icon": "fa fa-life-ring",
+      "title": "24hrs Support",
+      "text": "We are happy to help you! Call us at +91 9036886690 , 9036856690, and write us to insurekeshava@gmail.com"
+    },
+    {
       "icon": "fa fa-comments-o",
       "title": "Outstanding Services",
       "text": "We offer you quality services, Hassle-free journeys with the expertise of our travel experience."
     },
-    {
-      "icon": "fa fa-location-arrow",
-      "title": "GPS in Vehicle",
-      "text": "Our all travel vehicles are enabled with GPS technology."
-    },
+    
     {
       "icon": "fa fa-group",
       "title": "Fleet Well Maintained",
       "text": "After every Trip, our vehicles are well maintained & washed with regular service."
     },
+    
     {
-      "icon": "fa fa-life-ring",
-      "title": "24hrs Support",
-      "text": "We are happy to help you! Call us at +91 9036886690 , 9036856690 or write to us at insurancekeshava@gmail.com"
+      "icon": "fa fa-location-arrow",
+      "title": "GPS in Vehicle",
+      "text": "Our all travel vehicles are enabled with GPS technology."
     }
+    
   ]
 }
